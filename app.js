@@ -1972,27 +1972,29 @@ r.proper=true
 r.desc={
 en:
 `An <i>HTML5</i> interface for <i>Interactive Fiction</i> stories (<a href="https://github.com/YouDevIt/HyperFable">GitHub&nbsp;repository</a>).
-<p><b>Copyright &copy 2021 Leonardo Boselli</b>
+<p><b>Copyright &copy 2021-2024 Leonardo Boselli</b>
 <ul><li><b>Channels:</b>
-<br><a href="https://www.twitch.tv/leobos67"><i>LeoBos67</i></a> on Twitch
-<br><a href="https://www.youtube.com/channel/UC9G8z8nxZjynvB77ZRzL-MQ"><i>1001 Avventura</i></a> YouTube channel</li>
+<br><a href="https://www.youtube.com/@1001avventura"><i>@1001avventura</i></a> YouTube channel
+<br><a href="https://www.twitch.tv/1001avventura"><i>1001avventura</i></a> on Twitch</li>
 <li><b>Social:</b>
-<br><a href="https://twitter.com/1001avventura"><i>@1001avventura</i></a> on Twitter
 <br><a href="https://web.telegram.org/"><i>@milleunavventura</i></a> on Telegram
-<br><a href="https://www.facebook.com/Mille.e.Una.Avventura"><i>Mille.e.Una.Avventura</i></a> on Facebook</li>
+<br><a href="https://www.facebook.com/Mille.e.Una.Avventura"><i>Mille.e.Una.Avventura</i></a> on Facebook
+<br><a href="https://www.instagram.com/1001avventura/"><i>1001avventura</i></a> on Instagram
+<br><a href="https://x.com/1001avventura"><i>@1001avventura</i></a> on X</li>
 <li><b>Contacts:</b>
 <br><a href="https://www.youdev.it">Official <i>YouDev.it</i> site</a>
 <br><a href="mailto:leonardo.boselli@youdev.it">Leonardo Boselli's email</a></li></ul>`
 ,it:
 `Un'interfaccia <i>HTML5</i> per opere di <i>Narrativa Interattiva</i> (<a href="https://github.com/YouDevIt/HyperFable">GitHub&nbsp;repository</a>).
-<p><b>Copyright &copy 2021 Leonardo Boselli</b>
+<p><b>Copyright &copy 2021-2024 Leonardo Boselli</b>
 <ul><li><b>Canali:</b>
-<br><a href="https://www.twitch.tv/leobos67"><i>LeoBos67</i></a> su Twitch
-<br><a href="https://www.youtube.com/channel/UC9G8z8nxZjynvB77ZRzL-MQ"><i>1001 Avventura</i></a> canale YouTube</li>
+<br><a href="https://www.youtube.com/@1001avventura"><i>@1001avventura</i></a> canale YouTube
+<br><a href="https://www.twitch.tv/1001avventura"><i>1001avventura</i></a> su Twitch</li>
 <li><b>Social:</b>
-<br><a href="https://twitter.com/1001avventura"><i>@1001avventura</i></a> su Twitter
 <br><a href="https://web.telegram.org/"><i>@milleunavventura</i></a> su Telegram
-<br><a href="https://www.facebook.com/Mille.e.Una.Avventura"><i>Mille.e.Una.Avventura</i></a> su Facebook</li>
+<br><a href="https://www.facebook.com/Mille.e.Una.Avventura"><i>Mille.e.Una.Avventura</i></a> su Facebook
+<br><a href="https://www.instagram.com/1001avventura/"><i>1001avventura</i></a> su Instagram
+<br><a href="https://x.com/1001avventura"><i>@1001avventura</i></a> su X</li>
 <li><b>Contatti:</b>
 <br><a href="https://www.youdev.it">Sito ufficiale di <i>YouDev.it</i></a>
 <br><a href="mailto:leonardo.boselli@youdev.it">Email di Leonardo Boselli</a></li></ul>`}
